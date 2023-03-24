@@ -1,2 +1,0 @@
-# Telephone.Directory-
-telephone directory 
